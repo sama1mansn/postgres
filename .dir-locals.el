@@ -8,6 +8,7 @@
  (nxml-mode . ((fill-column . 78)
                (indent-tabs-mode . nil)))
  (perl-mode . ((perl-indent-level . 4)
+            (indent
                (perl-continued-statement-offset . 2)
                (perl-continued-brace-offset . -2)
                (perl-brace-offset . 0)
